@@ -28,7 +28,6 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
-      "value": "kaizoxzy",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -37,12 +36,12 @@
     },
     "BOTLOG_CHATID": {
       "description": "Buatlah grup telegram publik lalu masukan @MissRose_bot ketik /id, masukan id grup nya disini. contoh: -1001473548xxx",
-      "value": "-1001764542565",
+      "value": "Isi id grup mu wajib dengan awalan -100",
       "required": true
     },
     "PM_AUTO_BAN": {
       "description": "PM Auto-Ban adalah module untuk bot welcome otomatis ketika ada orang ngePC kamu, jika Mau di matikan ubah ke False",
-      "value": "False",
+      "value": "True",
       "required": false
     }
   },
